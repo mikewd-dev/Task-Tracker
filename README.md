@@ -1,6 +1,6 @@
 # Task Tracker App
 
-A simple full-stack Task Tracker application built with React (frontend) and Node.js (backend) using a MySQL database. Users can add, update, and manage tasks with a status and due date.
+A simple full-stack Task Tracker application built with React (frontend) and Node.js (backend) using a MySQL database. Users can add tasks with a status and due date.
 
 ## Project Structure
 
